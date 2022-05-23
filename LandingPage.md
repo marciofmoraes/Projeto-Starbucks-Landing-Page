@@ -5,3 +5,8 @@
   - git commit -m
   - git status
   - git  push 
+
+## Clone da Landing Page da StarBucks
+
+- Aplicando conhecimentos de HTML e css.
+
